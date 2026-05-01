@@ -7,21 +7,14 @@
         "ios": "2.2081"
     },
     "version": "1.0.0",
-    "id": "malikhw47.smth",
-    "name": "nam",
+    "id": "malikhw47.twitcthgd",
+    "name": "TwitchGD",
     "developer": "MalikHw47",
     "description": "desc.",
-    "tags": ["yes", "yeah"],
+    "tags": ["gameplay", "utility"],
     "links": {
         "source": "https://github.com/MalikHw/geode-template",
         "community": "https://discord.gg/G9bZ92eg2n"
     },
-    "settings": {},
-    "suggested": [
-        {
-            "id": "something",
-            "importance": "recommended",
-            "reason": "n"
-        }
-    ]
+    "settings": {}
 }
